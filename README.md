@@ -5,7 +5,9 @@ Welcome to TaskTracker, your go-to solution for staying organized and on top of 
 ### Features
 
 Task Management: Create, update, and remove tasks with ease.
+
 Smart Search and Filters: Find what you need in seconds with a powerful search and filtering options based on status.
+
 Intuitive User Interface: Experience a clean, responsive interface that makes managing your tasks both simple and enjoyable.
 
 ### How to Use
